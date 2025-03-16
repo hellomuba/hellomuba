@@ -15,9 +15,27 @@
 
 <h2>📜 Certifications and Skills:</h2>
 
-- Google Data Analytics Professional Certificate  
-- Data Science for Decision Making (Nexford University)  
-- Data Analytics Nanodegree (ExploreAI Academy)  
+- <a href="https://www.coursera.org/account/accomplishments/certificate/YTX6N3XD7W2J">Google Data Analytics Professional Certificate</a>  
+- <a href="https://www.nexford.org/">Data Science for Decision Making (Nexford University)</a>  
+- <a href="https://exploreai.com/">Data Analytics Nanodegree (ExploreAI Academy)</a>  
+- AI/ML 3MTT Scholarship (Ongoing)  
+- <a href="https://www.theforage.com/credentials/auYqj7ofjjrutWuCZ">BCG - GenAI Job Simulation</a>  
+- <a href="https://www.theforage.com/credentials/yZE762dBfZes7Bq4C">Deloitte Australia - Data Analytics Job Simulation</a>  
+- <a href="https://www.udacity.com/">Foundation of Digital Marketing (Udacity)</a>  
+- <a href="https://365datascience.com/certificates/CC-3B019F1E5E/">Fashion Analytics with Tableau (365 Data Science)</a>  
+- <a href="https://www.udacity.com/">Discovering Artificial Intelligence and Machine Learning (Udacity)</a>  
+- <a href="https://www.udacity.com/">Oracle Cloud Infrastructure Architect Professional (Udacity)</a>  
+- <a href="https://www.cisco.com/">Career Preparation Workshop (Cisco)</a>  
+- <a href="https://www.mckinsey.com/">McKinsey Forward Program</a>  
+- <a href="https://www.mavenanalytics.io/">ChatGPT for Data Analytics (Maven Analytics)</a>  
+- <a href="https://www.mavenanalytics.io/">Thinking Like an Analyst (Maven Analytics)</a>  
+- <a href="https://www.aws.training/">Data Analytics Fundamentals (AWS)</a>  
+- <a href="https://www.oracle.com/">Oracle SQL Explorer</a>  
+- <a href="https://www.microsoft.com/">Microsoft Azure AI Fundamentals</a>  
+- <a href="https://www.microsoft.com/">Microsoft Learn AI Skills Challenge</a>  
+- <a href="https://www.linkedin.com/learning/">Practice It: Advanced SQL (LinkedIn Learning)</a>  
+- <a href="https://www.productschool.com/">Product Analytics Micro-Certification (PAC)™️ (Product School)</a>  
+  
 
 🛠 Tools: Python, SQL, Power BI, Tableau, Snowflake, Docker  
 📂 Skills: Predictive Modeling, ETL Processes, Statistical Analysis, Machine Learning  
