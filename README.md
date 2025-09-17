@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mubarak Ibrahim! <br/><a href="https://github.com/hellomuba">Data Analyst</a>, <a href="https://linkedin.com/in/mubarak-ibrahim1">Business Intelligence Analyst</a>, <a href="https://hellomuba.github.io">AI Enthusiast</a></h1>
+<h1>Hi, I'm Mubarak Ibrahim! <br/><a href="https://github.com/hellomuba">Data Scientist</a>, <a href="https://linkedin.com/in/mubarak-ibrahim1">Business Intelligence Analyst</a>, <a href="https://hellomuba.github.io">AI Enthusiast</a></h1>
 
 <h2>📊 Data Analytics and BI Projects:</h2>
 
